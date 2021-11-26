@@ -16,7 +16,7 @@ pcblox39 - Stonecutter saw*, campfires* [item], glow item frame* [item], bundle*
 
 Adrien_Sama - Purpur block*, wither effect*, cross icon [realms], cross player icon [realms], and bad omen effect*.
 
-Zeuselpro - Pillager*, strider*, 1.18 lapis enchanting slot, and sculk sensor tendrils*.
+Zeuselpro - Pillager*, strider*, 1.18 lapis enchanting slot, updating anvil UI, and sculk sensor tendrils*.
 
 Cituation - Rotten flesh* and magma cream*.
 
