@@ -1,0 +1,16 @@
+Credit to NeraWoowty for the missing textures tool:
+https://nerawoowty.github.io/
+
+If you've made any of these textures already and think they are good tell us on our discord at https://discord.gg/KSEhCVtg4J
+
+------------------
+
+Missing: 5 out of 2015 ~ 99.75% done
+
+------------------
+
+entity/zombie_villager/type/desert.png
+entity/zombie_villager/type/jungle.png
+entity/zombie_villager/type/snow.png
+entity/zombie_villager/type/swamp.png
+entity/zombie_villager/type/taiga.png
