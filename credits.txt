@@ -22,6 +22,8 @@ Cituation - Rotten flesh* and magma cream*.
 
 Fabri - Bucket* and chiseled stone bricks*.
 
+mullak99 - 1.18 panorama screenshots.
+
 ---These contributions weren't explicitly made for EM but I have permission to use them---
 
 Harag0nMC - Regular bricks*, short grass plant*, jungle sapling*, dark oak sapling*, wolf*, zombified piglin, zombie pigman*, pumpkin pie*, acacia sapling*, spruce door/trapdoor*, end rod*, rabbit hide, rabbit foot, hopper inside and outside, all cocoa bean stages*, slime block*, chorus fruit*, podzol top*, zombie head/arms* (and by extension husk head/arms*), all rabbits, guardian, elder guardian, wither boss*, witch*, polar bear*, mutton*, white bit of shield base, stray overlay, sheep*, sheep overlay*, stonecutter side+, and furnace top/side* (and by extension the background of the furnace*, dropper*, and dispenser*).
@@ -86,6 +88,6 @@ Ewan Howell - Help with OptiFine CTM.
 
 NeraWoowty - Missing textures tool.
 
-Stridey - 1.17 panorama recreation.
+Minecraft@Home - 1.18 panorama seed.
 
 Vattic - The original style and many programmer art textures which weren't changed.
