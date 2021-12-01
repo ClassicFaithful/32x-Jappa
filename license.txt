@@ -4,15 +4,15 @@ Requirements:
 
 1: Give clear credit.
 
-2: Link back to the PMC listing (https://www.planetminecraft.com/texture-pack/em32d/).
+2: Link back to the PMC or GitHub listing here:
+	https://www.planetminecraft.com/texture-pack/em32d/
+	https://github.com/emulatedvattic/em32d/
 
 3: Ask on our discord above if you have a decent sized fanbase.
 
 4: Be honest about what you are using.
 
-5: If you are only using a few textures, such as wool, logs, UI, etc, make sure to list the textures that we made.
-
-6: No monetization, including link shorteners.
+5: No monetization, including link shorteners.
 
 Things that are fine as long as the guidelines above are being followed:
 
