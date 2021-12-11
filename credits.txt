@@ -26,9 +26,9 @@ mullak99 - 1.18 panorama screenshots.
 
 ---These contributions weren't explicitly made for EM but I have permission to use them---
 
-Harag0nMC - Regular bricks*, short grass plant*, jungle sapling*, dark oak sapling*, wolf*, zombified piglin, zombie pigman*, pumpkin pie*, acacia sapling*, spruce door/trapdoor*, end rod*, rabbit hide, rabbit foot, hopper inside and outside, all cocoa bean stages*, slime block*, chorus fruit*, podzol top*, zombie head/arms* (and by extension husk head/arms*), all rabbits, guardian, elder guardian, wither boss*, witch*, polar bear*, mutton*, white bit of shield base, stray overlay, sheep*, sheep overlay*, stonecutter side+, and furnace top/side* (and by extension the background of the furnace*, dropper*, and dispenser*).
+Harag0nMC - Regular bricks*, short grass plant*, jungle sapling*, dark oak sapling*, wolf*, zombified piglin, zombie pigman*, pumpkin pie*, acacia sapling*, spruce door, spruce trapdoor*, end rod*, rabbit hide, rabbit foot, hopper inside and outside, all cocoa bean stages*, slime block*, chorus fruit*, podzol top*, zombie head/arms* (and by extension husk head/arms*), all rabbits, guardian, elder guardian, wither boss*, witch*, polar bear*, mutton*, white bit of shield base, stray overlay, sheep*, sheep overlay*, and the stonecutter side+.
 
-JogurciQ - All leaves, andesite*, apple*, birch sapling*, all beds except the bottom planks, honey block, coal block*, lapis block*, path block top*, all cats*, kelp plant, soul fire, wither skeleton, trident model, campfire fire, seagrass, tall seagrass, all wheat stages, all sweet berry bush stages, and all potato stages.
+JogurciQ - All leaves, andesite*, apple*, birch sapling*, all beds except the bottom planks, honey block, coal block*, path block top*, all cats*, kelp plant, soul fire, wither skeleton, trident model, campfire fire, seagrass, tall seagrass, all wheat stages, all sweet berry bush stages, and all potato stages.
 
 Nyodex - All wooden planks (and by extension base of crafting table, wood on armor stand, wood on signs, and bottom of beds), boat models, barrel side*, dark prismarine*, all stained and regular glass, and all stained and regular glass CTM.
 
