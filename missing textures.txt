@@ -5,9 +5,8 @@ If you've made any of these textures already and think they are good tell us on 
 
 ------------------
 
-Missing: 2 out of 1959 ~ 99.9% done
+Missing: 1 out of 1959 ~ 99.95% done
 
 ------------------
 
-entity/zombie_villager/type/jungle.png
 entity/zombie_villager/type/snow.png
