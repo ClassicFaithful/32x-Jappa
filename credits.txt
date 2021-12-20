@@ -10,7 +10,7 @@ ZapPack - Iron golem*, terracotta, flower pot, painting [item], raw porkchop*, r
 
 FHLX - Grass side overlay+, mycelium/nylium top*, oak log*, spruce log*, jungle log*, acacia log*, dark oak log*, sandstone+, bucket+*, farmland+, diorite*, oak door*, iron door, birch door*, jungle door*, acacia_door*, oak trapdoor, blast furnace*, smoker*, birch trapdoor, acacia trapdoor, jungle trapdoor, dark oak trapdoor*, warped trapdoor, crimson trapdoor, all shulkers*, all campfires except the fire*, tundra zombie villager+, and tall grass bottom*. 
 
-Pythagoras_314 - Basalt side*, basalt top*, soul soil*, lantern+, ice*, quartz pillar*, snow block* (and by extension base of powder snow), diamond block*, gold block*, emerald block*, netherite block*, nether bricks*, red nether bricks*, light item 0+, netherrack*, spawner*, cauldron side*, melon slice*, honey bottle*, chain model*, and eye of ender*.
+Pythagoras_314 - Basalt side*, basalt top*, soul soil*, lantern+, ice*, quartz pillar*, snow block* (and by extension base of powder snow), diamond block*, gold block*, emerald block*, netherite block*, nether bricks*, red nether bricks*, light item 0+, spawner*, cauldron side*, melon slice*, honey bottle*, chain model*, and eye of ender*.
 
 pcblox39 - Stonecutter saw*, campfires* [item], glow item frame* [item], bundle*, salmon mob*, all glazed terracottas*, smithing table*, turtle egg block*, honeycomb block*, barrel bottom*, bamboo large leaves*, and bamboo stalk*.
 
