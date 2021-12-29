@@ -6,7 +6,7 @@ Requirements:
 
 2: Link back to the PMC, CurseForge, or GitHub listings here:
 	https://www.planetminecraft.com/texture-pack/em32d/
-	https://github.com/emulatedvattic/em32d/
+	https://github.com/classicfaithful/classic-faithful-32x
 	https://www.curseforge.com/minecraft/texture-packs/classic-faithful-32x32
 
 3: Ask on our discord above if you have a decent sized fanbase.
