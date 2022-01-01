@@ -5,7 +5,7 @@ Requirements:
 1: Give clear credit.
 
 2: Link back to the PMC, CurseForge, or GitHub listings here:
-	https://www.planetminecraft.com/texture-pack/em32d/
+	https://www.planetminecraft.com/texture-pack/classic-faithful-32x/
 	https://github.com/classicfaithful/classic-faithful-32x
 	https://www.curseforge.com/minecraft/texture-packs/classic-faithful-32x32
 
