@@ -90,7 +90,7 @@ EnderSlayer317 - Water patterns.
 
 Ewan Howell - Help with OptiFine CTM.
 
-NeraWoowty - Missing textures tool.
+mullak99 - Missing textures tool.
 
 Minecraft@Home - 1.18 panorama seed.
 
