@@ -14,3 +14,7 @@ Find the version you are looking for, and from there follow the instructions bel
 
 <img src="https://cdn.discordapp.com/attachments/852994775552884746/923069799116996678/unknown.png" align="center" height="256px">
 <img src="https://cdn.discordapp.com/attachments/852994775552884746/923069799381225492/unknown.png" align="center" height="256px">
+
+## If the .zip file does not show up when put in your minecraft/resourcepacks folder:
+
+Unzip the file using any program like Winrar, 7zip, or Archive Utility. Sometimes GitHub has a bug where the folder that is created when decompressed has a second folder within it, breaking the structure. To solve this, simply drag the second folder inside the decompressed one into your resourcepacks folder. Sorry for the inconvenience.
