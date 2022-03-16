@@ -20,9 +20,11 @@ Harag0nMC - Short grass plant*, desert zombie villager+, swamp zombie villager+,
 
 Zeuselpro - Pillager*, strider*, 1.18 lapis enchanting slot, updating anvil UI, and sculk sensor tendrils*.
 
-Cituation - Rotten flesh* and magma cream*.
+[redacted] - Rotten flesh* and magma cream*.
 
 Fabri - Bucket* and chiseled stone bricks*.
+
+Saarlodrie_ - Skull and roses painting.
 
 mullak99 - 1.18 panorama screenshots.
 
@@ -34,7 +36,7 @@ JogurciQ - All leaves, andesite*, apple*, birch sapling*, all beds except the bo
 
 Nyodex - All wooden planks (and by extension base of crafting table, wood on armor stand, wood on signs, and bottom of beds), boat models, barrel side*, dark prismarine*, all stained and regular glass, and all stained and regular glass CTM.
 
-KulenFlulen - 2 high fern, blaze*, conduit wind, dried kelp, red, orange, and pink tulips, lilac, peony, rose bush, sunflower, and the cracks on anvil tops.
+KulenFlulen - 2 high fern, blaze*, conduit wind, dried kelp, red, orange, and pink tulips, lilac, peony, rose bush, sunflower, skeleton horse reins/saddle, and the cracks on anvil tops.
 
 Cituation - Chains on slowness, Minecraft title text, and Java edition subtitle.
 
@@ -87,8 +89,6 @@ EnderSlayer317 - Water patterns.
 ---Other Credits---
 
 Ewan Howell - Help with OptiFine CTM.
-
-NeraWoowty - Missing textures tool.
 
 Minecraft@Home - 1.18 panorama seed.
 
