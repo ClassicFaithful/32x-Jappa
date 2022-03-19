@@ -21,7 +21,7 @@ Requirements if you are distributing any assets by us:
 7: Don't make your projects look official when they aren't. Don't copy our branding or assets in a way that would confuse the average viewer into believing a project is official when it isn't. Simply getting approval to use textures does not count as being able to pass your projects off as official. 
 
 8: Vattic's original license for the assets contained within the original Faithful 32x32 is different from this license, and any textures created prior to March 2016 (Minecraft Release 1.9) are exempt from this as a result. However, they do have to follow the original guidelines they were licensed under, which while being similar do have differences in requiring permission and use cases. You can find the original license here, under "Usage Guidelines", if you are interested in using textures created prior to this time period:
-	https://web.archive.org/web/20150607220656/http://www.minecraftforum.net:80/forums/mapping-and-modding/resource-packs/1223254-faithful-32x32-pack-update-red-cat-clay-1-8
+	https://web.archive.org/web/20150607220656/http://www.minecraftforum.net:80/		forums/mapping-and-modding/resource-packs/1223254-faithful-32x32-pack-update-red-	cat-clay-1-8
 
 9: This file, unmodified, must be included in all forms of content that use any assets of us, from textures to branding.
 
@@ -30,7 +30,6 @@ Exceptions:
 
 
 1: If you're doing anything privately and undistributed to the pack (e.g. custom edit for personal use, unpublished add-ons, mod support, or edits either by you or from different packs) you can safely disregard basically all of the requirements since you are not gaining unfairly from us in any form.
-
 
 2: If your pack could be considered an add-on, do not officially list it anywhere but rather submit it to us, to add it officially. More details on this can be found below.
 
@@ -48,9 +47,9 @@ Follow the requirements above if you are doing any of the following:
 
 5: Forking the project to make your own distributed edit.
 
-6: Video content creators can distribute a modified copy with their videos/streams. 
+6: Distributing a modified copy as a content creator with your videos/streams. 
 
-7: Map makers can provide modified copies to go along with it.
+7: Using textures for adventure maps.
 
 
 About contributions:
