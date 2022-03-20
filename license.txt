@@ -57,11 +57,11 @@ About contributions:
 
 2: If you've made add-ons, mod support, or backports to any of our packs we can also choose to add those officially to our repositories on GitHub.
 
-1: Any contribution added will give credit to the original author and any coauthors in a credits document contained within the pack file. Extras contribution will give credit within the pack.mcmeta.
+3: Any contribution added will give credit to the original author and any coauthors in a credits document contained within the pack file. Extras contribution will give credit within the pack.mcmeta.
 
-3: By submitting a texture or other contribution to us, you give us and any other contributor the permission to use and modify your texture in any of our projects, and others if we give permission to use our assets. You will still receive clear credit in any of our main projects along with the co-author(s) who modified it, but with other packs we gave permission to use your mileage will vary.
+4: By submitting a texture or other contribution to us, you give us and any other contributor the permission to use and modify your texture in any of our projects, and others if we give permission to use our assets. You will still receive clear credit in any of our main projects along with the co-author(s) who modified it, but with other packs we gave permission to use your mileage will vary.
 
-4: This applies retroactively to all previous contributions as well. If you do not consent to these permissions, you have the right to contact a Manager to request the removal of your textures or other contributions. 
+5: This applies retroactively to all previous contributions as well. If you do not consent to these permissions, you have the right to contact a Manager to request the removal of your textures or other contributions. 
 
 
 We reserve the right to:
