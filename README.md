@@ -1,7 +1,7 @@
 # Classic Faithful 32x Jappa
 A double resolution texture pack that continues Vattic’s classic faithful style today.
 
-<img src="https://github.com/Faithful-Resource-Pack/NewBr/blob/master/social%20media/banners/pmc/cf32_banner.png?raw=true" align="center" height="384px">
+<img src="https://database.faithfulpack.net/images/branding/social%20media/banners/pmc/cf32_banner.png" align="center" height="384px">
 
 # How to actually get to the pack 
 ## Important Note: Only versions 1.6, 1.7, 1.8, and 1.18 are supported and actually have files in the branches, your GitHub is not broken and this is not a bug.
