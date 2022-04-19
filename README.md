@@ -3,17 +3,16 @@ A double resolution texture pack that continues Vattic’s classic faithful styl
 
 <img src="https://database.faithfulpack.net/images/branding/social%20media/banners/pmc/cf32_banner.png" align="center" height="384px">
 
-# How to actually get to the pack 
+# How to actually get to the pack:
 ## Important Note: Only versions 1.6, 1.7, 1.8, and 1.18 are supported and actually have files in the branches, your GitHub is not broken and this is not a bug.
 
 Find the version you are looking for, and from there follow the instructions below:
 
-<img src="https://cdn.discordapp.com/attachments/814198781301096449/934882153139933254/Screen_Shot_2022-01-23_at_10.47.48_AM.png" align="center" height="256px">
+<img src="https://user-images.githubusercontent.com/75297863/163904169-6ab97237-946c-4cf2-be60-3909a464d308.png" align="left" height="512px">
 
 # How to Download (After going to a supported branch)
 
-<img src="https://cdn.discordapp.com/attachments/852994775552884746/923069799116996678/unknown.png" align="center" height="256px">
-<img src="https://cdn.discordapp.com/attachments/852994775552884746/923069799381225492/unknown.png" align="center" height="256px">
+<img src="https://user-images.githubusercontent.com/75297863/163903656-b32b9686-c147-469b-bb3f-808ab6d6bc36.png" align="center" height="384px">
 
 ## If the .zip file does not show up when put in your minecraft/resourcepacks folder:
 
