@@ -46,6 +46,16 @@ Compliance Team - All banners, shield banners, ascii font, accented font, nonlat
 
 Derp - Furnace minecart item*.
 
+---These contributions were made for Bedrock Edition exclusively (does not include modified textures based on ones from Java Edition)---
+
+Note: Does not include textures by Offroaders123, which would be much too long to realistically list here, a huge shoutout goes to them for making the majority of the Bedrock Edition UI and letting us use it.
+
+Note 2: Does not include fixes by mullak99, which would again be much too long to list. Huge props to them for fixing a number of the issues present in the pack at the time, such as broken TGAs and improper formatting.
+
+Zeuselpro - Camera*.
+
+ZapPack - Backup Replace UI+.
+
 ---These contributions were made under Vattic's time and are still in the pack---
 
 * = this texture was modified by Vattic, but in its original form it resembles the current texture
