@@ -24,8 +24,6 @@ Zeuselpro - Pillager*, strider*, 1.18 lapis enchanting slot, updating anvil UI, 
 
 Fabri - Bucket* and chiseled stone bricks*.
 
-Saarlodrie_ - Skull and roses painting.
-
 Arkytac - Unknown pack image render.
 
 mullak99 - 1.18 panorama screenshots.
@@ -42,7 +40,9 @@ KulenFlulen - 2 high fern, blaze*, conduit wind, dried kelp, red, orange, and pi
 
 [redacted] - Chains on slowness, Minecraft title text, and Java edition subtitle.
 
-Compliance Team - All banners, shield banners, ascii font, accented font, nonlatin european font, the white field horse pattern, and rain.
+Faithful 32x - All banners, shield banners, ascii font, accented font, nonlatin european font, the white field horse pattern, and rain.
+
+Saarlodrie_ - Skull and roses painting.
 
 Derp - Furnace minecart item*.
 
