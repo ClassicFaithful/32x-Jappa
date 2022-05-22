@@ -30,7 +30,7 @@ mullak99 - 1.18 panorama screenshots.
 
 ---These contributions weren't explicitly made for Classic Faithful but I have permission to use them---
 
-Harag0nMC - Regular bricks*, jungle sapling*, dark oak sapling*, wolf*, zombified piglin, zombie pigman*, pumpkin pie*, acacia sapling*, spruce door, spruce trapdoor*, end rod*, rabbit hide, hopper inside and outside, all cocoa bean stages*, slime block*, podzol top*, zombie head/arms* (and by extension husk head/arms*), all rabbits, guardian, elder guardian, wither boss*, witch*, polar bear*, mutton*, white bit of shield base, stray overlay, sheep*, sheep overlay*, and the stonecutter side+.
+Harag0nMC - Regular bricks*, dark oak sapling*, wolf*, zombified piglin, zombie pigman*, pumpkin pie*, acacia sapling*, spruce door, spruce trapdoor*, end rod*, rabbit hide, hopper inside and outside, all cocoa bean stages*, slime block*, podzol top*, zombie head/arms* (and by extension husk head/arms*), all rabbits, guardian, elder guardian, wither boss*, witch*, polar bear*, mutton*, white bit of shield base, stray overlay, sheep*, sheep overlay*, and the stonecutter side+.
 
 JogurciQ - All leaves, wooden planks+, andesite*, apple*, birch sapling*, all beds except the bottom planks, honey block, coal block*, path block top*, all cats*, kelp plant, soul fire, wither skeleton, trident model, campfire fire, seagrass, tall seagrass, all wheat stages, all sweet berry bush stages, and all potato stages.
 
