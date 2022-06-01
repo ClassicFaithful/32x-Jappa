@@ -30,7 +30,7 @@ mullak99 - 1.18 panorama screenshots.
 
 ---These contributions weren't explicitly made for Classic Faithful but I have permission to use them---
 
-Harag0nMC - Regular bricks*, dark oak sapling*, wolf*, zombified piglin, zombie pigman*, pumpkin pie*, acacia sapling*, spruce door, spruce trapdoor*, end rod*, rabbit hide, hopper inside and outside, all cocoa bean stages*, slime block*, podzol top*, zombie head/arms* (and by extension husk head/arms*), all rabbits, guardian, elder guardian, wither boss*, witch*, polar bear*, mutton*, white bit of shield base, stray overlay, sheep*, sheep overlay*, and the stonecutter side+.
+Harag0nMC - Dark oak sapling*, wolf*, zombified piglin, zombie pigman*, pumpkin pie*, acacia sapling*, spruce door, spruce trapdoor*, end rod*, rabbit hide, hopper inside and outside, all cocoa bean stages*, slime block*, podzol top*, zombie head/arms* (and by extension husk head/arms*), all rabbits, guardian, elder guardian, wither boss*, witch*, polar bear*, mutton*, white bit of shield base, stray overlay, sheep*, sheep overlay*, and the stonecutter side+.
 
 JogurciQ - All leaves, wooden planks+, andesite*, apple*, all beds except the bottom planks, honey block, coal block*, path block top*, all cats*, kelp plant, soul fire, wither skeleton, trident model, campfire fire, seagrass, tall seagrass, all wheat stages, all sweet berry bush stages, and all potato stages.
 
@@ -98,8 +98,8 @@ EnderSlayer317 - Water patterns.
 
 ---Other Credits---
 
-Ewan Howell - Help with OptiFine CTM.
+Ewan Howell - OptiFine CTM generator.
 
-Minecraft@Home - 1.18 panorama seed.
+Minecraft@Home - The 1.18 panorama seed.
 
-Vattic - The original style and many programmer art textures which weren't changed.
+Vattic - The founder and creator of the original Faithful 32x32 pack for Minecraft 1.8, which is the entire inspiration for this pack. Without him, this pack would have never existed, and by extension the entirety of Classic Faithful and even the broader Faithful community itself. Go show him some support over at https://www.gofundme.com/f/vattic-appreciation-fund, he really deserves it.
