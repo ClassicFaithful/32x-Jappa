@@ -1,0 +1,74 @@
+ALL CLASSIC FAITHFUL RESOURCE PACKS ARE DISTRIBUTING WITH THESE GUIDELINES BELOW:
+
+
+Requirements if you are distributing any assets by us:
+
+
+1: Give clear credit in an appropriate place. (e.g. video descriptions, pack.mcmetas, listing descriptions)
+
+2: Link back to our Discord server or GitHub organization here:
+	https://github.com/ClassicFaithful
+	https://discord.gg/KSEhCVtg4J
+
+3: Get permission if you are planning on distributing any assets of the pack in any way, shape, or form. On our Discord server above, only people with the green "Manager" role are able to give permission. 
+
+4: Be honest about what you are using and use common sense. Basically, don't take credit for stuff you didn't make and give proper attribution to any textures you use or modify. 
+
+5: Do not monetize under any circumstances, including link shorteners. All files with assets made by us must be entirely free and open sourced, to uphold our standards. This includes redistribution on the Bedrock Marketplace or locking behind a paywall (e.g. Patreon).
+
+6: Don't make your projects look official when they aren't. Don't copy our branding or assets in a way that would confuse the average viewer into believing a project is official when it isn't. Simply getting approval to use textures does not count as being able to pass your projects off as official. 
+
+7: Give credit to each texture individually if you are using a specific, generally small set of our assets. However, if your project is mostly our assets you can just give credit to all of them in one entry. 
+
+8: This file, unmodified, must be included in all forms of content that use any assets of us, from textures to branding.
+
+
+Exceptions:
+
+
+1: If you're doing anything privately and undistributed to the pack (e.g. custom edit for personal use, unpublished add-ons, mod support, or edits either by you or from different packs) you can safely disregard basically all of the requirements since you are not gaining unfairly from us in any form.
+
+2: If your pack could be considered an add-on, do not officially list it anywhere but rather submit it to us, where we can add said pack officially. More details on this can be found below.
+
+3: If you are using any Vattic's original textures created prior to March 2016 (Minecraft Release 1.9). These textures were licensed under the original Faithful 32x32 license which is different to this license. You can find the original license here, under "Usage Guidelines", if you are interested in using textures created prior to this time period:
+	https://web.archive.org/web/20150607220656/http://www.minecraftforum.net:80/forums/mapping-and-modding/resource-packs/1223254-faithful-32x32-pack-update-red-cat-clay-1-8
+
+
+Follow the requirements above if you are doing any of the following:
+
+
+1: Distributing the pack in any form, modified or not.
+
+2: Using our textures as placeholders.
+
+3: Using our textures as a base for any of your own textures.
+
+4: Using a few textures that you cannot properly make yourself (e.g. paintings).
+
+5: Distributing a modified copy as a content creator with your videos/streams. 
+
+6: Using textures for adventure maps, server resource packs, or data packs.
+
+
+About contributions:
+
+
+1: You can contribute to our packs on our Discord server via a voting and approval system. If you find an issue in the pack and have fixed it, have made snapshot textures, or just remade an old texture, feel free to send it over for us for review and to add officially. 
+
+2: If you've made add-ons, mod support, or backports to any of our packs we can also choose to add those officially to our repositories on GitHub.
+
+3: Any contribution added will give credit to the original author and any coauthors in a credits document contained within the pack file. Extras contribution will give credit within the pack.mcmeta.
+
+4: By submitting a texture or other contribution to us, you give us and any other contributor the permission to use and modify your texture in any of our projects, and others if we give permission to use our assets. You will still receive clear credit in any of our main projects along with the co-author(s) who modified it, but with other packs we gave permission to use your mileage will vary.
+
+5: This applies retroactively to all previous contributions as well. If you do not consent to these permissions, you have the right to contact a Manager to request the removal of your textures or other contributions. 
+
+
+We reserve the right to:
+
+
+1: Refuse the ability to use, distribute, or modify any assets from the pack. This action would be final, generally only in the case of unusual circumstances.
+
+2: Take legal action if you do not comply with these guidelines.
+
+3: Change this license at any time for any reason.
