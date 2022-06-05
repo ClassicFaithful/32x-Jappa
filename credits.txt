@@ -34,9 +34,9 @@ Harag0nMC - Dark oak sapling*, wolf*, zombified piglin, zombie pigman*, pumpkin 
 
 JogurciQ - All leaves, wooden planks+, andesite*, apple*, all beds except the bottom planks, honey block, coal block*, path block top*, all cats*, kelp plant, soul fire, wither skeleton, trident model, campfire fire, seagrass, tall seagrass, all wheat stages, all sweet berry bush stages, and all potato stages.
 
-Nyodex - Boat models, barrel side*, dark prismarine*, all stained and regular glass, and all stained and regular glass CTM.
+KulenFlulen - 2 high fern, blaze*, conduit wind, dried kelp, red, orange, and pink tulips, lilac, peony, rose bush, sunflower, and the skeleton horse reins/saddle.
 
-KulenFlulen - 2 high fern, blaze*, conduit wind, dried kelp, red, orange, and pink tulips, lilac, peony, rose bush, sunflower, skeleton horse reins/saddle, and the cracks on anvil tops.
+Nyodex - Boat models, barrel side*, dark prismarine*, all stained and regular glass, and all stained and regular glass CTM.
 
 [redacted] - Chains on slowness, Minecraft title text, and Java edition subtitle.
 
