@@ -20,6 +20,8 @@ Harag0nMC - Desert zombie villager+, swamp zombie villager+, taiga zombie villag
 
 Zeuselpro - Pillager*, strider*, 1.18 lapis enchanting slot, updating anvil UI, and sculk sensor tendrils*.
 
+Aerod - Frogspawn*, tadpole bucket*, and tadpole*.
+
 [redacted] - Rotten flesh* and magma cream*.
 
 Fabri - Bucket* and chiseled stone bricks*.
