@@ -30,6 +30,8 @@ Arkytac - Unknown pack image render.
 
 mullak99 - 1.18 panorama screenshots.
 
+TheOPWarrior208 - Health boost effect+.
+
 ---These contributions weren't explicitly made for Classic Faithful but I have permission to use them---
 
 Harag0nMC - Dark oak sapling*, wolf*, zombified piglin, zombie pigman*, pumpkin pie*, acacia sapling*, spruce door, spruce trapdoor*, end rod*, rabbit hide, hopper inside and outside, all cocoa bean stages*, slime block*, podzol top*, zombie head/arms* (and by extension husk head/arms*), all rabbits, guardian, elder guardian, wither boss*, witch*, polar bear*, mutton*, white bit of shield base, stray overlay, sheep*, sheep overlay*, and the stonecutter side+.
