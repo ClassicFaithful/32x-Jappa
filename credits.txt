@@ -26,11 +26,11 @@ Aerod - Frogspawn*, tadpole bucket*, and tadpole*.
 
 Fabri - Bucket* and chiseled stone bricks*.
 
+mullak99 - 1.18 panorama screenshots.
+
 TheOPWarrior208 - Health boost effect+ and allay*.
 
 Arkytac - Unknown pack image render.
-
-mullak99 - 1.18 panorama screenshots.
 
 ---These contributions weren't explicitly made for Classic Faithful but I have permission to use them---
 
@@ -49,6 +49,8 @@ Faithful 32x - All banners, shield banners, ascii font, accented font, nonlatin 
 Saarlodrie_ - Skull and roses painting.
 
 Derp - Furnace minecart item*.
+
+mullak99 - The chest used on the chest boat model*.
 
 ---These contributions were made for Bedrock Edition exclusively (does not include modified textures based on ones from Java Edition)---
 
