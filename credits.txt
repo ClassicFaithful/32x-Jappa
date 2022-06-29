@@ -28,7 +28,7 @@ Fabri - Bucket* and chiseled stone bricks*.
 
 mullak99 - 1.18 panorama screenshots.
 
-TheOPWarrior208 - Health boost effect+, blindness+, and allay*.
+TheOPWarrior208 - Health boost effect+, mangrove root side* (and by extension parts of the muddy version), blindness+, and allay*.
 
 Arkytac - Unknown pack image render.
 
