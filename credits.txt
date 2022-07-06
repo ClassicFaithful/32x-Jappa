@@ -12,7 +12,7 @@ FHLX - Grass side overlay+, oak log+ (and by extension all recolors and variants
 
 Pythagoras_314 - Basalt side*, basalt top*, soul soil*, lantern+, ice*, quartz pillar*, snow block* (and by extension base of powder snow), diamond block*, gold block*, emerald block*, netherite block*, nether bricks*, red nether bricks*, light item 0+, spawner*, cauldron side*, melon slice*, honey bottle*, chain model*, and eye of ender*.
 
-pcblox39 - Stonecutter saw*, campfires* [item], glow item frame* [item], bundle*, salmon mob*, all glazed terracottas*, smithing table*, turtle egg block*, honeycomb block*, barrel bottom*, bamboo large leaves*, and bamboo stalk*.
+pcblox39 - Stonecutter saw*, campfires* [item], glow item frame* [item], frogs+, bundle*, salmon mob*, all glazed terracottas*, smithing table*, turtle egg block*, honeycomb block*, barrel bottom*, bamboo large leaves*, and bamboo stalk*.
 
 Adrien_Sama - Purpur block*, wither effect*, cross icon [realms], cross player icon [realms], and bad omen effect*.
 
