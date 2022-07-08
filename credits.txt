@@ -16,7 +16,7 @@ pcblox39 - Stonecutter saw*, campfires* [item], glow item frame* [item], frogs+,
 
 Adrien_Sama - Purpur block*, wither effect*, cross icon [realms], cross player icon [realms], and bad omen effect*.
 
-Harag0nMC - Desert zombie villager+, swamp zombie villager+, taiga zombie villager+, and jungle zombie villager+.
+Harag0nMC - Sculk vein*, desert zombie villager+, swamp zombie villager+, taiga zombie villager+, and jungle zombie villager+.
 
 Zeuselpro - Pillager*, strider*, 1.18 lapis enchanting slot, updating anvil UI, and sculk sensor tendrils*.
 
