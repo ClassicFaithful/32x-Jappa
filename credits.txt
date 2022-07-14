@@ -30,7 +30,7 @@ Fabri - Bucket* and chiseled stone bricks*.
 
 mullak99 - 1.18 panorama screenshots.
 
-Lillie - Mangrove trapdoor.
+Lillie - Mangrove trapdoor, and mangrove door [block]*.
 
 Arkytac - Unknown pack image render.
 
