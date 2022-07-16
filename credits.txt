@@ -54,8 +54,6 @@ Derp - Furnace minecart item*.
 
 mullak99 - The chest used on the chest boat model*.
 
-Pomi108 - 1.19 panorama world.
-
 ---These contributions were made for Bedrock Edition exclusively (does not include modified textures based on ones from Java Edition)---
 
 Note: Does not include textures by Offroaders123, which would be much too long to realistically list here, a huge shoutout goes to them for making the majority of the Bedrock Edition UI and letting us use it.
@@ -111,5 +109,7 @@ EnderSlayer317 - Tiled water*.
 Ewan Howell - OptiFine CTM generator.
 
 Minecraft@Home - The 1.18 and 1.19 panorama seeds.
+
+Pomi108 - 1.19 panorama world generation.
 
 Vattic - The founder and creator of the original Faithful 32x32 pack for Minecraft 1.8, which is the entire inspiration for this pack. Without him, this pack would have never existed, and by extension the entirety of Classic Faithful and even the broader Faithful community itself. Go show him some support over at https://www.gofundme.com/f/vattic-appreciation-fund, he really deserves it.
