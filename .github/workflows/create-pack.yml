@@ -22,8 +22,7 @@ jobs:
         PORT: ${{ secrets.PORT }}
         KEY: ${{ secrets.SSH }}
         script: |
-          cd "./packs/Classic-Faithful-32x-Jappa"
-          git checkout ${{ steps.branch-name.outputs.current_branch }}
+          cd "./packs/Classic-Faithful-32x-Jappa/${{ steps.branch-name.outputs.current_branch }}"
           git pull
           zip -r "Classic Faithful 32x Jappa - ${{ steps.branch-name.outputs.current_branch }}.zip" . -x "*.git*" -x "*.github*" -x ".gitignore"
           mv "Classic Faithful 32x Jappa - ${{ steps.branch-name.outputs.current_branch }}.zip" "/var/www/html/database.faithfulpack.net/packs/Classic-32x-Java/Jappa"
