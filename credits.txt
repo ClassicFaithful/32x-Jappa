@@ -60,9 +60,11 @@ Note: Does not include textures by Offroaders123, which would be much too long t
 
 Note 2: Does not include fixes by mullak99, which would again be much too long to list. Huge props to them for fixing a number of the issues present in the pack at the time, such as broken TGAs and improper formatting.
 
-Zeuselpro - Camera*.
+Zeuselpro - Camera block*.
 
 ZapPack - Backup Replace UI+.
+
+the random who owns a pug - Sword UI+.
 
 ---These contributions were made under Vattic's time and are still in the pack---
 
