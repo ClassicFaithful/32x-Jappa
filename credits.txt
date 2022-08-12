@@ -48,6 +48,8 @@ Nyodex - Boat models, barrel side*, dark prismarine*, all stained and regular gl
 
 Faithful 32x - All banners, shield banners, ascii font, accented font, nonlatin european font, and rain.
 
+Deborn - Sugar cane item* and speed effect*.
+
 Saarlodrie_ - Skull and roses painting.
 
 Derp - Furnace minecart item*.
