@@ -46,11 +46,13 @@ Nyodex - Boat models, barrel side*, dark prismarine*, all stained and regular gl
 
 [redacted] - Chains on slowness, Minecraft title text, and Java edition subtitle.
 
-Faithful 32x - All banners, shield banners, ascii font, accented font, nonlatin european font, and rain.
+Faithful 32x - All banners, shield banners, ascii font, accented font, and nonlatin european font.
 
 Deborn - Sugar cane item* and speed effect*.
 
 Saarlodrie_ - Skull and roses painting.
+
+Fred figglehorn - Rain effect.
 
 Derp - Furnace minecart item*.
 
@@ -68,7 +70,7 @@ ZapPack - Backup Replace UI+.
 
 the random who owns a pug - Sword UI+.
 
----These contributions were made under Vattic's time and are still in the pack---
+---Contributions under Vattic's time that have either textures or parts of textures in the pack---
 
 * = this texture was modified by Vattic, but in its original form it resembles the current texture
 
