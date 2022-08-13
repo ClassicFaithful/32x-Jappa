@@ -22,6 +22,7 @@ jobs:
         PORT: ${{ secrets.PORT }}
         KEY: ${{ secrets.SSH }}
         script: |
+          [ ! -d "./packs/Classic-Faithful-32x-Jappa/${{ steps.branch-name.outputs.current_branch }}" ] && exit 1
           cd "./packs/Classic-Faithful-32x-Jappa/${{ steps.branch-name.outputs.current_branch }}"
           git pull
           zip -r "Classic Faithful 32x Jappa - ${{ steps.branch-name.outputs.current_branch }}.zip" . -x "*.git*" -x "*.github*" -x ".gitignore"
