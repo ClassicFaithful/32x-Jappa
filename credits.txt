@@ -66,6 +66,8 @@ Note: Does not include textures by Offroaders123, which would be much too long t
 
 Note 2: Does not include fixes by mullak99, which would again be much too long to list. Huge props to them for fixing a number of the issues present in the pack at the time, such as broken TGAs and improper formatting.
 
+Shaggy - Chain square UI and repeat square UI.
+
 Zeuselpro - Camera block*.
 
 ZapPack - Backup Replace UI+.
