@@ -14,13 +14,13 @@ Pythagoras_314 - Basalt side*, basalt top*, soul soil*, lantern+, ice*, quartz p
 
 pcblox39 - Stonecutter saw*, campfires* [item], glow item frame* [item], frogs+, bundle*, salmon mob*, all glazed terracottas*, smithing table*, turtle egg block*, honeycomb block*, barrel bottom*, bamboo large leaves*, and bamboo stalk*.
 
-Adrien_Sama - Purpur block*, wither effect*, and bad omen effect*.
-
 Harag0nMC - Sculk vein*, desert zombie villager+, swamp zombie villager+, taiga zombie villager+, and jungle zombie villager+.
 
 TheOPWarrior208 - Health boost effect+, mangrove root side* (and by extension parts of the muddy version), turtle egg fixes [block], blindness+, and allay*.
 
 Zeuselpro - Pillager*, strider*, 1.18 lapis enchanting slot, updating anvil UI, and sculk sensor tendrils*.
+
+Adrien_Sama - Purpur block*, wither effect*, and bad omen effect*.
 
 Aerod - Frogspawn*, tadpole bucket*, and tadpole*.
 
