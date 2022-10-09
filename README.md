@@ -4,7 +4,7 @@ A double resolution texture pack that continues Vattic’s classic faithful styl
 <img src="https://raw.githubusercontent.com/Faithful-Resource-Pack/Branding/main/social%20media/banners/github/cf32_banner.png" align="center" height="384px">
 
 # How to actually get to the pack:
-## Important Note: Only versions 1.6-1.11 and 1.18 are supported and actually have files in the branches, your GitHub is not broken and this is not a bug.
+## Important Note: Some versions are not available yet, your GitHub is not broken and this is not a bug.
 
 Find the version you are looking for, and from there follow the instructions below:
 
