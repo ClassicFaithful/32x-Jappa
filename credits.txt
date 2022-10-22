@@ -30,7 +30,7 @@ Fabri - Bucket* and chiseled stone bricks*.
 
 mullak99 - 1.18 panorama screenshots.
 
-Lillie - Mangrove trapdoor, and mangrove door [block]*.
+Lillie - Mangrove trapdoor*, bamboo planks, bamboo mosaic, and mangrove door [block]*.
 
 EachMenderKhai - Glistering melon slice* (Based on Pythagoras_314's design).
 
