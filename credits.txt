@@ -16,7 +16,7 @@ HARYA_ - Sculk vein*, azalea top+, desert zombie villager+, swamp zombie village
 
 TheOPWarrior208 - Health boost effect+, mangrove root side* (and by extension parts of the muddy version), turtle egg fixes [block], blindness+, kelp [block+], and allay*.
 
-Zeuselpro - Pillager*, strider*, 1.18 lapis enchanting slot, updating anvil UI, powder snow+, and sculk sensor tendrils*, and powder snow+.
+Zeuselpro - Pillager*, strider*, 1.18 lapis enchanting slot, updating anvil UI, powder snow+, and sculk sensor tendrils*.
 
 Adrien_Sama - Purpur block*, wither effect*, and bad omen effect*.
 
