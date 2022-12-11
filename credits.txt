@@ -1,4 +1,4 @@
-All textures by Evorp or Vattic except the following:
+All textures by Evorp, FHLX, or Vattic except the following:
 
 * = this texture was modified (if not specified otherwise, by Evorp), but in its original form it resembles the current texture.
 
@@ -8,8 +8,6 @@ All textures by Evorp or Vattic except the following:
 
 ZapPack - Iron golem*, regular terracotta, flower pot, painting [item], raw porkchop*, raw chicken*, raw beef, raw rabbit, raw salmon, raw cod, tropical fish item, cooked porkchop, cooked chicken*, cooked beef, cooked rabbit, cooked salmon, cooked cod, pufferfish, fish on cod, salmon, and tropical fish buckets, disc 11, stone bricks*, spruce sapling, melon top*, fire charge*, dragon fireball*, prismarine crystal, rabbit stew, suspicious stew, end portal frame*, all wooden planks+ (and by extension base of some workstations, wood on armor stand, wood on signs, painting back, and bottom of beds), all boat entities* (and by extension parts of the chest boat entity), all command blocks, hopper item, short grass plant, tall grass, hero of the village effect+, regeneration effect, poison effect, hunger effect, saturation effect, all sign models, armor stand models, dark oak sapling+, wither rose*, ball on slowness, item frame background*, iron trapdoor*, brewing stand base, stonecutter bottom, accessibility button*, hotbar offhand slot+, bars, updating signs to 1.17, iron nugget+, shulker shell+, savanna zombie villager variant, checkbox, social interactions menu, recipe book UI+, beacon UI+, 1.14 villager UI, fixing a bunch of other UIs, wool+, cactus bottom, all carrot crop stages, redstone dust item*, gunpowder*, glowstone dust*, sugar item*, health boost effect, luck effect, unluck effect, advancement widgets+, netherite scrap, observer top, chorus fruit*, gravel+, cobblestone+, mossy cobblestone+, end stone+, netherrack+ (and by extension tweaks to nether ores/nylium side/magma cube's respective bases), bedrock*, wheat item+, ice+, potato stage 3+, blackstone, gilded blackstone, zombie+, husk+, warped roots, fox, all crossbow stages, carrot+, golden carrot+, cake [item]+, graham painting, gamemode switcher, all frosted ice stages, lapis item+, axolotls*, tundra zombie villager+, bookshelf+, pumpkin blur, and orange*, purple, gray, lime, magenta, light gray*, blue, brown, black, and pink dye.
 
-FHLX - Grass side overlay+, oak log+ (and by extension all recolors and variants), mangrove log+, sandstone+, bucket+*, farmland+, diorite*, oak door*, birch door*, jungle door*, acacia_door*, crimson door, warped door, birch trapdoor+, acacia trapdoor+, jungle trapdoor, dark oak trapdoor*, blast furnace*, smoker*, all shulkers*, all campfire blocks except for the fire*, tundra zombie villager+, all azalea plants (and by extension all of the flowering variants)*, and bamboo fence/gate particle. 
-
 Pythagoras_314 - Basalt side*, basalt top*, soul soil*, lantern+, ice*, quartz pillar*, snow block* (and by extension base of powder snow), diamond block*, gold block*, emerald block*, netherite block*, nether bricks*, red nether bricks*, light item 0+, spawner*, cauldron side*, melon slice* (and by extension base of glistering melon), honey bottle*, chain model*, and eye of ender*.
 
 pcblox39 - Stonecutter saw*, campfires* [item], glow item frame* [item], frogs+, bundle*, salmon mob*, all glazed terracottas*, smithing table*, turtle egg block*, honeycomb block*, barrel bottom*, bamboo large leaves*, and bamboo stalk*.
@@ -18,7 +16,7 @@ HARYA_ - Sculk vein*, azalea top+, desert zombie villager+, swamp zombie village
 
 TheOPWarrior208 - Health boost effect+, mangrove root side* (and by extension parts of the muddy version), turtle egg fixes [block], blindness+, and allay*.
 
-Zeuselpro - Pillager*, strider*, 1.18 lapis enchanting slot, updating anvil UI, powder snow+, and sculk sensor tendrils*.
+Zeuselpro - Pillager*, strider*, 1.18 lapis enchanting slot, updating anvil UI, powder snow+, and sculk sensor tendrils*, and powder snow+.
 
 Adrien_Sama - Purpur block*, wither effect*, and bad omen effect*.
 
@@ -30,8 +28,7 @@ Fabri - Bucket* and chiseled stone bricks*.
 
 mullak99 - 1.18 panorama screenshots.
 
-Lillie - Mangrove trapdoor*, bamboo planks, bamboo mosaic, bamboo door [block]*, bamboo trapdoor, and mangrove door [block]*.
-
+Lillie - Mangrove trapdoor*, scaffolding top+, bamboo planks (and by extension stripped bamboo block), stripped bamboo block (side and top), bamboo mosaic, bamboo door [block]*, bamboo fence, bamboo fence gate, bamboo trapdoor, and mangrove door [block]*, vex*, vex charging*, camel
 EachMenderKhai - Glistering melon slice* (Based on Pythagoras_314's design).
 
 Arkytac - Unknown pack image render.
@@ -74,7 +71,7 @@ Zeuselpro - Camera block*.
 
 ZapPack - Backup Replace UI+.
 
-IronDuke - Bookmark.
+IronDuke - Bookmark and star.
 
 the random who owns a pug - Sword UI+.
 
