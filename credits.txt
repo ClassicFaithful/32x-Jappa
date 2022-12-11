@@ -28,7 +28,8 @@ Fabri - Bucket* and chiseled stone bricks*.
 
 mullak99 - 1.18 panorama screenshots.
 
-Lillie - Mangrove trapdoor*, scaffolding+, bamboo planks (and by extension stripped bamboo block), stripped bamboo block (side and top), bamboo mosaic, bamboo door [block]*, bamboo fence, bamboo fence gate, bamboo trapdoor, and mangrove door [block]*, vex*, vex charging*, camel
+Lillie - Mangrove trapdoor*, scaffolding+, bamboo planks (and by extension stripped bamboo block), stripped bamboo block (side and top), bamboo mosaic, bamboo door [block]*, bamboo fence, bamboo fence gate, bamboo trapdoor, and mangrove door [block]*, vex*, vex charging*, and camel.
+
 EachMenderKhai - Glistering melon slice* (Based on Pythagoras_314's design).
 
 Arkytac - Unknown pack image render.
