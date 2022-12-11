@@ -14,7 +14,7 @@ pcblox39 - Stonecutter saw*, campfires* [item], glow item frame* [item], frogs+,
 
 HARYA_ - Sculk vein*, azalea top+, desert zombie villager+, swamp zombie villager+, taiga zombie villager+, and jungle zombie villager+.
 
-TheOPWarrior208 - Health boost effect+, mangrove root side* (and by extension parts of the muddy version), turtle egg fixes [block], blindness+, and allay*.
+TheOPWarrior208 - Health boost effect+, mangrove root side* (and by extension parts of the muddy version), turtle egg fixes [block], blindness+, kelp+, and allay*.
 
 Zeuselpro - Pillager*, strider*, 1.18 lapis enchanting slot, updating anvil UI, powder snow+, and sculk sensor tendrils*, and powder snow+.
 
@@ -28,7 +28,7 @@ Fabri - Bucket* and chiseled stone bricks*.
 
 mullak99 - 1.18 panorama screenshots.
 
-Lillie - Mangrove trapdoor*, scaffolding top+, bamboo planks (and by extension stripped bamboo block), stripped bamboo block (side and top), bamboo mosaic, bamboo door [block]*, bamboo fence, bamboo fence gate, bamboo trapdoor, and mangrove door [block]*, vex*, vex charging*, camel
+Lillie - Mangrove trapdoor*, scaffolding+, bamboo planks (and by extension stripped bamboo block), stripped bamboo block (side and top), bamboo mosaic, bamboo door [block]*, bamboo fence, bamboo fence gate, bamboo trapdoor, and mangrove door [block]*, vex*, vex charging*, camel
 EachMenderKhai - Glistering melon slice* (Based on Pythagoras_314's design).
 
 Arkytac - Unknown pack image render.
@@ -71,7 +71,7 @@ Zeuselpro - Camera block*.
 
 ZapPack - Backup Replace UI+.
 
-IronDuke - Bookmark and star.
+IronDuke - Bookmark UI and star UI.
 
 the random who owns a pug - Sword UI+.
 
