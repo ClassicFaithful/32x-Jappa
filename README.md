@@ -6,7 +6,9 @@ A double resolution texture pack that continues Vattic’s classic faithful styl
 # How to actually get to the pack:
 Find the version you are looking for, and from there follow the instructions below:
 
-<img src="https://user-images.githubusercontent.com/75297863/163904169-6ab97237-946c-4cf2-be60-3909a464d308.png" align="left" height="512px">
+<img src="https://user-images.githubusercontent.com/75297863/163904169-6ab97237-946c-4cf2-be60-3909a464d308.png" align="center" height="512px">
+
+The `java-latest` branch is always updated to the latest Minecraft version, including snapshots/pre-releases/release candidates. It's meant for easier development, so unless you know what you're doing, just use a properly numbered branch.
 
 # How to Download (After going to a supported branch)
 
