@@ -44,7 +44,7 @@ KulenFlulen - 2 high fern, blaze*, conduit wind, dried kelp, red, orange, and pi
 
 Nyodex - Barrel side*, dark prismarine*, all stained and regular glass, and all stained and regular glass CTM.
 
-[redacted] - Chains on slowness, Minecraft title text, and Java edition subtitle.
+[redacted] - Minecraft title text and Java edition subtitle.
 
 Faithful 32x - All banners, shield banners, ascii font, accented font, and nonlatin european font.
 
