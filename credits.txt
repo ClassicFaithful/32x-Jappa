@@ -10,13 +10,13 @@ ZapPack - Iron golem*, regular terracotta, flower pot, painting [item], raw pork
 
 Pythagoras_314 - Basalt side*, basalt top*, soul soil*, lantern+, ice*, quartz pillar*, snow block* (and by extension base of powder snow), diamond block*, gold block*, emerald block*, netherite block*, nether bricks*, red nether bricks*, light item 0+, spawner*, cauldron side*, melon slice* (and by extension base of glistering melon), honey bottle*, chain model*, sculk sensor tendrils, and eye of ender*.
 
-Lillie - Mangrove trapdoor*, scaffolding+, bamboo planks, stripped bamboo block, bamboo mosaic, bamboo door [block]*, bamboo fence, bamboo fence gate, bamboo trapdoor, and mangrove door [block]*, Ari skins, Alex skins, vex*, vex charging*, and camel*.
+Lillie - Mangrove trapdoor*, scaffolding+, bamboo planks, stripped bamboo block, bamboo mosaic, bamboo door [block]*, bamboo fence, bamboo fence gate, bamboo trapdoor, mangrove door [block]*, Ari skins, Alex skins, vex*, vex charging*,  camel*, cherry door, cherry trapdoor, and cherry sapling.
 
 pcblox39 - Stonecutter saw*, campfires* [item], glow item frame* [item], frogs+, bundle*, salmon mob*, all glazed terracottas*, smithing table*, turtle egg block*, honeycomb block*, barrel bottom*, bamboo large leaves*, bamboo raft [entity], and bamboo stalk*.
 
 TheOPWarrior208 - Health boost effect+, mangrove root side* (and by extension parts of the muddy version), turtle egg fixes [block], blindness+, kelp [block+], and allay*.
 
-HARYA_ - Sculk vein*, azalea top+, desert zombie villager+, swamp zombie villager+, taiga zombie villager+, and jungle zombie villager+.
+HARYA_ - Sculk vein*, azalea top+, desert zombie villager+, swamp zombie villager+, taiga zombie villager+, jungle zombie villager+, wild armor trim smithing template, and rib armor trim smithing template.
 
 Zeuselpro - Pillager*, strider*, 1.18 lapis enchanting slot, updating anvil UI, and powder snow+.
 
@@ -33,6 +33,8 @@ mullak99 - 1.18 panorama screenshots.
 EachMenderKhai - Glistering melon slice* (Based on Pythagoras_314's design).
 
 Arkytac - Unknown pack image render.
+
+Shaggy - Unseen Notification and Smithing GUI.
 
 ---These contributions weren't explicitly made for Classic Faithful but we have permission to use them---
 
