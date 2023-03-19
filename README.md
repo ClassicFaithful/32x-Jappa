@@ -1,19 +1,22 @@
-# Classic Faithful 32x Jappa
-A double resolution texture pack that continues Vattic’s classic faithful style today.
+<img src="https://github.com/Faithful-Resource-Pack/Branding/blob/main/logos/transparent/512/cf32_logo.png?raw=true" alt="Classic Faithful 32x Jappa" align="right" height="256px">
+<div align="center">
+  <h1>Classic Faithful 32x Jappa</h1>
+  <h3>A double resolution texture pack that continues Vattic’s classic faithful style today.</h3>
+  <h5><i>Official Java Edition repository</i></h5>
 
-<img src="https://raw.githubusercontent.com/Faithful-Resource-Pack/Branding/main/social%20media/banners/github/cf32_banner.png" align="center" height="384px">
+![RepoSize](https://img.shields.io/github/repo-size/ClassicFaithful/32x-Jappa)
+![Issues](https://img.shields.io/github/issues/ClassicFaithful/32x-Jappa)
+![PullRequests](https://img.shields.io/github/issues-pr/ClassicFaithful/32x-Jappa)
+</div>
 
-# How to actually get to the pack:
-Find the version you are looking for, and from there follow the instructions below:
+---
+
+## How to download:
+All Java and Bedrock Edition versions can be downloaded on [our website](https://faithfulpack.net/classicfaithful/32x-jappa).
+
+## How to switch versions:
+To view the pack files and to switch between resource pack versions, click the branch button (`main`) and select the version you want to see! 
+
+If you want to play on snapshots or pre-releases, the `java-latest` branch contains textures that aren't in numbered versions yet.
 
 <img src="https://user-images.githubusercontent.com/75297863/163904169-6ab97237-946c-4cf2-be60-3909a464d308.png" align="center" height="512px">
-
-The `java-latest` branch is always updated to the latest Minecraft version, including snapshots/pre-releases/release candidates. It's meant for easier development, so unless you know what you're doing, just use a properly numbered branch.
-
-# How to Download (After going to a supported branch)
-
-<img src="https://user-images.githubusercontent.com/75297863/163903656-b32b9686-c147-469b-bb3f-808ab6d6bc36.png" align="center" height="384px">
-
-## If the .zip file does not show up when put in your minecraft/resourcepacks folder:
-
-Unzip the file using any program like Winrar, 7zip, or Archive Utility. Sometimes GitHub has a bug where the folder that is created when decompressed has a second folder within it, breaking the structure. To solve this, simply drag the second folder inside the decompressed one into your resourcepacks folder. Sorry for the inconvenience.
