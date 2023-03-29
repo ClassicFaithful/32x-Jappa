@@ -36,6 +36,8 @@ Arkytac - Unknown pack image render.
 
 Shaggy - Unseen Notification and Smithing GUI.
 
+liamj987 - Tab button+, cherry particles, and gold heart particles. 
+
 ---These contributions weren't explicitly made for Classic Faithful but we have permission to use them---
 
 HARYA_ - Dark oak sapling*, wolf*, zombified piglin, zombie pigman*, pumpkin pie*, acacia sapling*, spruce door, spruce trapdoor*, end rod*, rabbit hide, hopper inside and outside, all cocoa bean stages*, slime block*, podzol top*, zombie head/arms* (and by extension husk head/arms*), all rabbits, guardian, elder guardian, wither boss*, witch*, polar bear*, mutton*, white bit of shield base, stray overlay, sheep*, sheep overlay*, and the stonecutter side+.
