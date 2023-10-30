@@ -1,3 +1,10 @@
+[CRUCIAL] As of April 16, 2023, this file is  deprecated. You can view updated  credits  on our database at:
+
+https://webapp.faithfulpack.net/#/contributions 
+
+
+
+
 All textures by Evorp, FHLX, or Vattic except the following:
 
 * = this texture was modified (if not specified otherwise, by Evorp), but in its original form it resembles the current texture.
