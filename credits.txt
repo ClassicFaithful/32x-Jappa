@@ -1,6 +1,6 @@
-[CRUCIAL] As of April 16, 2023, this file is  deprecated. You can view updated  credits  on our database at:
+[CRUCIAL] As of April 16, 2023, this file is  deprecated. You can view updated credits on our database at:
 
-https://webapp.faithfulpack.net/#/contributions 
+https://webapp.faithfulpack.net/#/gallery 
 
 
 
